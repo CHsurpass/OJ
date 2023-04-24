@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/qoj-springboot/DataBackup/DataBackup.iml" filepath="$PROJECT_DIR$/qoj-springboot/DataBackup/DataBackup.iml" />
       <module fileurl="file://$PROJECT_DIR$/qoj-springboot/api/api.iml" filepath="$PROJECT_DIR$/qoj-springboot/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qoj-springboot/api/qoj-api.iml" filepath="$PROJECT_DIR$/qoj-springboot/api/qoj-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qoj-springboot/DataBackup/qoj-backend.iml" filepath="$PROJECT_DIR$/qoj-springboot/DataBackup/qoj-backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/qoj-springboot/qoj-springboot.iml" filepath="$PROJECT_DIR$/qoj-springboot/qoj-springboot.iml" />
     </modules>
   </component>

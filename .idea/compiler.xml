@@ -8,12 +8,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="api" />
+        <module name="qoj-api" />
+        <module name="qoj-backend" />
         <module name="DataBackup" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="api" target="8" />
       <module name="DataBackup" target="8" />
+      <module name="qoj-api" target="8" />
+      <module name="qoj-backend" target="8" />
       <module name="qoj-springboot" target="8" />
     </bytecodeTargetLevel>
   </component>
